@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola mundo jajjajajaj ");
+            Console.WriteLine("Hola mundo jajjajajaj asdas<fsjdlkg ");
             Console.ReadKey();
         }
     }
